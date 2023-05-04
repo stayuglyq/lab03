@@ -1,0 +1,3 @@
+/Users/aynes/projects_git/timp_lab3/lab03/formatter_lib/CMakeFiles/formatterExe.dir
+/Users/aynes/projects_git/timp_lab3/lab03/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/aynes/projects_git/timp_lab3/lab03/formatter_lib/CMakeFiles/rebuild_cache.dir

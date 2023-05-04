@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsolver.a CMakeFiles/solver.dir/Users/aynes/projects_git/timp_lab3/lab03/solver_lib/solver.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsolver.a
