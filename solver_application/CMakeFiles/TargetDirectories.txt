@@ -1,0 +1,6 @@
+/Users/aynes/projects_git/timp_lab3/lab03/solver_application/CMakeFiles/formatter_lib.dir
+/Users/aynes/projects_git/timp_lab3/lab03/solver_application/CMakeFiles/solver.dir
+/Users/aynes/projects_git/timp_lab3/lab03/solver_application/CMakeFiles/formatter_ex_lib.dir
+/Users/aynes/projects_git/timp_lab3/lab03/solver_application/CMakeFiles/solver_app.dir
+/Users/aynes/projects_git/timp_lab3/lab03/solver_application/CMakeFiles/edit_cache.dir
+/Users/aynes/projects_git/timp_lab3/lab03/solver_application/CMakeFiles/rebuild_cache.dir
